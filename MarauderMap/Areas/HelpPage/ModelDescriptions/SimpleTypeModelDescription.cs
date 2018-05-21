@@ -1,0 +1,6 @@
+namespace MarauderMap.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
