@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarauderMap", "MarauderMap\MarauderMap.csproj", "{7C5209C7-0461-42FE-A544-616702101AB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{46A583E6-9E7E-426C-8C13-F283C4308325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapRepository", "MapRepository\MapRepository.csproj", "{847888AA-1E0F-46B0-9AE6-F618CE6DF259}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7C5209C7-0461-42FE-A544-616702101AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C5209C7-0461-42FE-A544-616702101AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C5209C7-0461-42FE-A544-616702101AB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46A583E6-9E7E-426C-8C13-F283C4308325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A583E6-9E7E-426C-8C13-F283C4308325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A583E6-9E7E-426C-8C13-F283C4308325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A583E6-9E7E-426C-8C13-F283C4308325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{847888AA-1E0F-46B0-9AE6-F618CE6DF259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{847888AA-1E0F-46B0-9AE6-F618CE6DF259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{847888AA-1E0F-46B0-9AE6-F618CE6DF259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{847888AA-1E0F-46B0-9AE6-F618CE6DF259}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
